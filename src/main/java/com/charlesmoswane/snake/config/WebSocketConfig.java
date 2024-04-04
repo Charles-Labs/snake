@@ -1,5 +1,6 @@
 package com.charlesmoswane.snake.config;
 
+import com.charlesmoswane.snake.handler.SecondsCounterHandler;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.socket.config.annotation.EnableWebSocket;
 import org.springframework.web.socket.config.annotation.WebSocketConfigurer;
